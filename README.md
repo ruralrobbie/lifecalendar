@@ -1,14 +1,14 @@
-# We All Die
+# Life Calendar for 2
 
 > *"Teach us to number our days, that we may gain a heart of wisdom."* — Psalm 90:12 (NIV)
 
-Welcome to **We All Die**, the first (as far as I know, as of 14MAR2025) web-based life calendar to visualize the lifespans of **two** people in weeks—past, present, and future. This tool encourages thoughtful reflection on the time we’re given, with a unique focus on shared and individual journeys.
+Welcome to **Life Calendar for 2**, the first (as far as I know, as of 14MAR2025) web-based life calendar to visualize the lifespans of **two** people in weeks—past, present, and future. This tool encourages thoughtful reflection on the time we’re given, with a unique focus on shared and individual journeys.
 
 ## How to Use
 
 1. **Open the App**: Load `index.html` in your browser—no installation required.
 2. **Enter Details for Two People**:
-   - For **Person 1** and **Person 2**:
+     - Add names for **Person 1** and **Person 2**:
      - Select their **birth dates**
      - Choose their **biological sex**
      - Check "Show Person 1" and/or "Show Person 2" to include them
